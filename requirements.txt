@@ -1,2 +1,2 @@
-azure.storage.fileshare
+azure-storage-file-share
 django
