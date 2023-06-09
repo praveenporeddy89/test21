@@ -17,7 +17,7 @@ def curam(request):
     context = {
         'welcome_text':"welcome to curam page",
     }
-    #connection_string = "DefaultEndpointsProtocol=https;AccountName=dohdpawu2devariesopssa01;AccountKey=1OVtWOY4q5jGe0trPGk34UxTUDsk5HWs7AmOGIpcGpjOTWgQlMQBhSjwPRoeOBdFpFp3lyZG4kMh+ASt3D5GZA==;EndpointSuffix=core.windows.net"
+    #connection_string = "DefaultEndpointsProtocol=https;AccountName=dXXXa01;AccountKey=XXX;EndpointSuffix=core.windows.net"
     #service = ShareFileClient.from_connection_string(conn_str=connection_string,share_name="software", file_path="deploy/fs_read")
     #with open(".\\dashboard_file_contents.txt", "wb") as file_handle:
     #    data = service.download_file()

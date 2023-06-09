@@ -1,2 +1,2 @@
 ssp1|9pm|uat24|curam portal uat24|https://www.yahoo.commmmmunicationupdated
-ssp2|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+ssp3|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
