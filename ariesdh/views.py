@@ -12,22 +12,22 @@ def todolist(request):
     return render(request,'js/second.html',context)
     #return render(request,'first.html',{})
 
-def curam(request):
+def wkp(request):
      
     context = {
-        'welcome_text':"welcome to curam page",
+        'welcome_text':"welcome to wkp page",
     }
     #connection_string = "DefaultEndpointsProtocol=https;AccountName=dXXXa01;AccountKey=XXX;EndpointSuffix=core.windows.net"
     #service = ShareFileClient.from_connection_string(conn_str=connection_string,share_name="software", file_path="deploy/fs_read")
     #with open(".\\dashboard_file_contents.txt", "wb") as file_handle:
     #    data = service.download_file()
     #    data.readinto(file_handle)
-    #myname={'firstkey': [['sit1', '2pm', 'uat'], ['sit2', '3pm', 'stage'], ['sit3', '4pm', 'prod']]}
+    #myname={'firstkey': [['sit1', '2pm', 'sspt'], ['sit2', '3pm', 'stage'], ['sit3', '4pm', 'prod']]}
     myname={}
     #return HttpResponse("Welcome to my page bro")
     #return render(request,'js/third.html',{})
-    #with open("curaminputdata", "r") as csvfile:
-    #with open('curaminputdata','r') as file:
+    #with open("wkpinputdata", "r") as csvfile:
+    #with open('wkpinputdata','r') as file:
     with open('dashboard_wkp_file_contents.txt','r') as file:
         to_return = []
         a = file.read().splitlines()
@@ -57,9 +57,9 @@ def curam(request):
     print(myname)
     return render(request,'js/third.html',myname)
     #return render(request,'first.html',{})
-def ua(request):
+def ssp(request):
     context = {
-        'welcome_text':"welcome to ua page"
+        'welcome_text':"welcome to ssp page"
     }
     #return HttpResponse("Welcome to my page bro")
     #return render(request,'js/four.html',context)
@@ -67,8 +67,8 @@ def ua(request):
     myname={}
     #return HttpResponse("Welcome to my page bro")
     #return render(request,'js/third.html',{})
-    #with open("curaminputdata", "r") as csvfile:
-    #with open('curaminputdata','r') as file:
+    #with open("wkpinputdata", "r") as csvfile:
+    #with open('wkpinputdata','r') as file:
     with open('dashboard_ssp_file_contents.txt','r') as file:
         to_return = []
         a = file.read().splitlines()

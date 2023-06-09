@@ -3,7 +3,7 @@ from ariesdh import views
 
 urlpatterns = [
     path('see', views.todolist,name='todolist'),
-    path('curam', views.curam,name='curampath'),
-    path('ua', views.ua,name='uapath'),
+    path('wkp', views.wkp,name='wkp'),
+    path('ssp', views.ssp,name='ssp'),
     
 ]
