@@ -1,3 +1,12 @@
-wkp12|9pm|uat24|curam portal uat24|https://www.yahoo.commmmmunicationupdated
-wkp13|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
-wkp14|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp05|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp06|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp16|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp17|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp18|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp19|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp20|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp100|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp300|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp500|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp501|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp601|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
