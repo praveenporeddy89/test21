@@ -10,3 +10,5 @@ ssp199|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 ssp299|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 ssp399|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 ssp499|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+ssp599|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+ssp999|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated

@@ -10,3 +10,4 @@ wkp300|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 wkp500|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 wkp501|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
 wkp601|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
+wkp701|11pm|uat26|curam portal uat25|https://www.yahoo.commmmmunicationupdated
