@@ -28,7 +28,8 @@ def wkp(request):
     #return render(request,'js/third.html',{})
     #with open("wkpinputdata", "r") as csvfile:
     #with open('wkpinputdata','r') as file:
-    with open('dashboard_wkp_file_contents.txt','r') as file:
+    #with open('dashboard_wkp_file_contents.txt','r') as file:
+    with open('/fshare/dashboard_wkp_file_contents.txt','r') as file:
         to_return = []
         a = file.read().splitlines()
         for tab in a:
@@ -69,7 +70,8 @@ def ssp(request):
     #return render(request,'js/third.html',{})
     #with open("wkpinputdata", "r") as csvfile:
     #with open('wkpinputdata','r') as file:
-    with open('dashboard_ssp_file_contents.txt','r') as file:
+    #with open('dashboard_ssp_file_contents.txt','r') as file:
+    with open('/fshare/dashboard_ssp_file_contents.txt','r') as file:
         to_return = []
         a = file.read().splitlines()
         for tab in a:
