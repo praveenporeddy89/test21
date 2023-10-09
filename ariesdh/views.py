@@ -1,6 +1,5 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from azure.storage.fileshare import ShareFileClient
 import csv
 # Create your views here.
 def todolist(request):
